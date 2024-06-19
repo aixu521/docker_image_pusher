@@ -1,2 +1,12 @@
 vaultwarden/server
-vaultwarden/web-vault
+xiaoyaliu/alist
+sanjusss/aliyun-ddns
+chenhw2/aliyun-ddns-cli
+homarr/homarr
+filebrowser/filebrowser
+linuxserver/qbittorrent
+shaarli/shaarli
+linuxserver/syncthing
+syncthing/syncthing
+bytemark/webdav
+rucio/webdav
