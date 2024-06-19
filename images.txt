@@ -10,3 +10,8 @@ linuxserver/syncthing
 syncthing/syncthing
 bytemark/webdav
 rucio/webdav
+a76yyyy/qiandao
+chigusa/bililive-go
+caryyu/douban-openapi-server
+jellyfin/jellyfin
+rustdesk/rustdesk-server
