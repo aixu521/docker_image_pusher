@@ -1,4 +1,3 @@
-vaultwarden/server
 xiaoyaliu/alist
 sanjusss/aliyun-ddns
 chenhw2/aliyun-ddns-cli
