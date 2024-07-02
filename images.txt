@@ -16,3 +16,7 @@ caryyu/douban-openapi-server
 jellyfin/jellyfin
 rustdesk/rustdesk-server
 ich777/rustdesk-server-aio
+emqx/emqx
+nodered/node-red
+grafana/grafana
+influxdb
