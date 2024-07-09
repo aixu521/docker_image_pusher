@@ -20,3 +20,4 @@ emqx/emqx
 nodered/node-red
 grafana/grafana
 influxdb
+homeassistant/home-assistants
