@@ -22,3 +22,5 @@ grafana/grafana
 influxdb
 ghcr.io/home-assistant/home-assistant
 esphome/esphome
+mzz2017/v2raya
+gitea/gitea
